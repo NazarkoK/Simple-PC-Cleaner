@@ -1,0 +1,2 @@
+Attempting to delete temporary files:
+Success deleting file: C:\Windows\Temp\Apteka 
